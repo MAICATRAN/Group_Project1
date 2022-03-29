@@ -64,7 +64,7 @@ Inside the norebook, you only need to change the name and the date of the recess
       
 - Contains the following documents:.<br />
    - Chris_Branch jupyter notebook.<br />
-     - Please run in to generate the supporting tables and graphs that formed the foundation of my section of the report. <br />
+     - Please run it to generate the supporting tables and graphs that formed the foundation of my section of the report. <br />
      - Plot for Current Sector Distribution on S&P 500.<br />
    - Last_6_Recessions.docx<br />
      - A document with the recession start and end dates in it.<br />
