@@ -73,7 +73,7 @@ Inside the norebook, you only need to change the name and the date of the recess
 - Usually I would take screen captures of the key features of my work, but everything I did is carefully described in the group's Word document.<br />
 
 ### [Sabrina's Part](https://github.com/MAICATRAN/Group_Project1/tree/main/Sabrina_part)
-- Folders contain all the plot results.<br />
+- Contains the following folders:<br />
    - results.<br />
      - Adj Close Change by Sectors
      - Marketcap distribution by State
