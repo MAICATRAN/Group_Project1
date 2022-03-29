@@ -55,7 +55,7 @@ Inside the norebook, you only need to change the name and the date of the recess
    - Post_GFC_Recession<br />
       Contains CSV files of market data for all sectors from end of GFC recession to now.<br />
    - Project_1_Presentation<br />
-      Contains the finished Word document, Powerpoint presentation and drafts for this project.<br />
+      Contains the finished Word document(Project 1 - EDA), Powerpoint presentation and drafts for this project.<br />
    - QRecs<br />
       Contains a file I shared with a teammate and can be ignored.<br />
    - SP500<br />
