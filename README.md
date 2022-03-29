@@ -41,13 +41,20 @@ Inside the norebook, you only need to change the name and the date of the recess
      - CSV file for the details of current 500 listed companies.<br />
 
 ### [Chris_Branch](https://github.com/MAICATRAN/Group_Project1/tree/main/Chris_Branch)
-- Contains CSV files with all the plot results.<br />
-   - Covid-19<br />
-      All the polts during this crash.<br />
-   - The Golbal Financial crisis(GFC)<br />
-      All the polts during this crash.<br />
-   - Dot-Com Bubble<br />
-      All the polts during this crash.<br />
+- Contains the following folders:.<br />
+   - COVID_Recession<br />
+      CSV files of market data for all sectors during COVID recession.<br />
+   - Dot_Com_Recession<br />
+      CSV files of market data for all sectors during Dot-Com recession.<br />
+   - GFC_Recession<br />
+      CSV files of market data for all sectors during GFC recession.<br />
+   - Post_COVID_Recession<br />
+      CSV files of market data for all sectors during COVID recession.<br />
+   - Post_Dot_Com_Recession<br />
+      CSV files of market data for all sectors during Dot-Com recession.<br />
+   - Post_GFC_Recession<br />
+      CSV files of market data for all sectors during GFC recession.<br />
+      
    - S&P 500<br />
      - Plot for Return of the S&P 500 over 4 crashes <br />
      - Plot for Current Sector Distribution on S&P 500.<br />
