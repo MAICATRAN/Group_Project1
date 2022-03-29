@@ -43,20 +43,26 @@ Inside the norebook, you only need to change the name and the date of the recess
 ### [Chris_Branch](https://github.com/MAICATRAN/Group_Project1/tree/main/Chris_Branch)
 - Contains the following folders:.<br />
    - COVID_Recession<br />
-      CSV files of market data for all sectors during COVID recession.<br />
+      Contains CSV files of market data for all sectors during COVID recession.<br />
    - Dot_Com_Recession<br />
-      CSV files of market data for all sectors during Dot-Com recession.<br />
+      Contains CSV files of market data for all sectors during Dot-Com recession.<br />
    - GFC_Recession<br />
-      CSV files of market data for all sectors during GFC recession.<br />
+      Contains CSV files of market data for all sectors during GFC recession.<br />
    - Post_COVID_Recession<br />
-      CSV files of market data for all sectors during COVID recession.<br />
+      Contains CSV files of market data for all sectors from end of COVID recession to now.<br />
    - Post_Dot_Com_Recession<br />
-      CSV files of market data for all sectors during Dot-Com recession.<br />
+      Contains CSV files of market data for all sectors from end of Dot-Com recession to now.<br />
    - Post_GFC_Recession<br />
-      CSV files of market data for all sectors during GFC recession.<br />
-      
-   - S&P 500<br />
-     - Plot for Return of the S&P 500 over 4 crashes <br />
+      Contains CSV files of market data for all sectors from end of GFC recession to now.<br />
+   - Project_1_Presentation<br />
+      Contains the finished Word document, Powerpoint presentation and drafts for this project.<br />
+   - QRecs<br />
+      Contains a file I shared with a teammate and can be ignored.<br />
+   - SP500<br />
+      Contains a CSV file listing all companies in the S&P500 complete with some summary information on each.<br />
+- Contains the following documents:.<br />
+   - Chris_Branch jupyter notebook<br />
+     - Please run in to generate the supporting tables and graphs that formed the foundation of my section of the report. <br />
      - Plot for Current Sector Distribution on S&P 500.<br />
    - sp500<br />
      - CSV file for the details of current 500 listed companies.<br />
