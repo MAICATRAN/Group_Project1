@@ -72,6 +72,23 @@ Inside the norebook, you only need to change the name and the date of the recess
 
 - Usually I would take screen captures of the key features of my work, but everything I did is carefully described in the group's Word document.<br />
 
+### [Sabrina's Part](https://github.com/MAICATRAN/Group_Project1/tree/main/Sabrina_part)
+- Folders contain all the plot results.<br />
+   - results.<br />
+     - Adj Close Change by Sectors
+     - Marketcap distribution by State
+     - Revenue Distribution by Sector
+     - Weight distribution by Sector
+   - sp500<br />
+     - CSV file for the details of current 500 listed companies.<br />
+   - Post_COVID_Recession<br />
+      Contains CSV files of market data for all sectors from end of COVID recession to now.<br />
+    - QRecs<br />
+      Contains a QRecs csv file.<br />
+- Contains the following documents:.<br />
+   - project_1 jupyter notebook.<br />
+   - Sabrina_contribution_to_Chris_part (from cell 78) jupyter notebook.<br />
+   - Project_1_Sab.docx<br />
 ## 3. Presentation
 - PowerPoint for The Project Introduction<br />
 - Word Document for The Project comclusion<br />
