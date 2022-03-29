@@ -4,7 +4,7 @@
 3. Presentation<br />
 
 ## 1. Overview
-Our project try to analysis the sector performance during and immediately after a recession. We studied the recovery of the recessions, the relationship between GDP and the recession, the Post COVID-19 Recession and the sector performence during the recession.
+Our project tries to analyse the sector performance during and immediately after a recession. We studied the recovery of the recessions, the relationships between GDP and the recession, the Post COVID-19 Recession and the sector performence during the recession.
 
 ## 2. Guidelines & File Name
 ### Jupyter Note Guidelines:<br />
@@ -28,6 +28,20 @@ Inside the norebook, you only need to change the name and the date of the recess
   ```
 ### [Ash's Part](https://github.com/MAICATRAN/Group_Project1/tree/main/Ash's%20Part)
 - Folders contain all the plot results.<br />
+   - Covid-19<br />
+      All the polts during this crash.<br />
+   - The Golbal Financial crisis(GFC)<br />
+      All the polts during this crash.<br />
+   - Dot-Com Bubble<br />
+      All the polts during this crash.<br />
+   - S&P 500<br />
+     - Plot for Return of the S&P 500 over 4 crashes <br />
+     - Plot for Current Sector Distribution on S&P 500.<br />
+   - sp500<br />
+     - CSV file for the details of current 500 listed companies.<br />
+
+### [Chris_Branch](https://github.com/MAICATRAN/Group_Project1/tree/main/Chris_Branch)
+- Contains CSV files with all the plot results.<br />
    - Covid-19<br />
       All the polts during this crash.<br />
    - The Golbal Financial crisis(GFC)<br />
