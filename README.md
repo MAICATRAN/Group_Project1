@@ -41,7 +41,7 @@ Inside the norebook, you only need to change the name and the date of the recess
      - CSV file for the details of current 500 listed companies.<br />
 
 ### [Chris_Branch](https://github.com/MAICATRAN/Group_Project1/tree/main/Chris_Branch)
-- Contains the following folders:.<br />
+- Contains the following folders:<br />
    - COVID_Recession<br />
       Contains CSV files of market data for all sectors during COVID recession.<br />
    - Dot_Com_Recession<br />
@@ -70,6 +70,7 @@ Inside the norebook, you only need to change the name and the date of the recess
      - A document with the recession start and end dates in it.<br />
    - PNG printouts of the many graphs that my code generates.<br />
 
+- Usually I would take screen captures of the key features of my work, but everything I did is carefully described in the group's Word document.<br />
 
 ## 3. Presentation
 - PowerPoint for The Project Introduction<br />
