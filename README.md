@@ -60,12 +60,15 @@ Inside the norebook, you only need to change the name and the date of the recess
       Contains a file I shared with a teammate and can be ignored.<br />
    - SP500<br />
       Contains a CSV file listing all companies in the S&P500 complete with some summary information on each.<br />
+      
+      
 - Contains the following documents:.<br />
    - Chris_Branch jupyter notebook<br />
      - Please run in to generate the supporting tables and graphs that formed the foundation of my section of the report. <br />
      - Plot for Current Sector Distribution on S&P 500.<br />
-   - sp500<br />
-     - CSV file for the details of current 500 listed companies.<br />
+   - Last_6_Recessions.docx<br />
+     - A document with the recession start and end dates in it.<br />
+   - PNG printouts of the many graphs that my code generates.<br />
 
 
 ## 3. Presentation
