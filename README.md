@@ -92,3 +92,24 @@ Inside the norebook, you only need to change the name and the date of the recess
 ## 3. Presentation
 - PowerPoint for The Project Introduction<br />
 - Word Document for The Project comclusion<br />
+
+
+### [Maica Branch](https://github.com/MAICATRAN/Group_Project1/tree/main/maica-part)
+- Contains the following files:<br />
+   - GDP Growth and S&P 500 Returns.csv<br />
+   - GDP vs Time since last.png<br />
+   - GDPvsS&P Returns.png<br />
+   - GDPvsS&P Returns_line.png<br />
+   - Information source.docx<br />
+   - Maica Branch.docx<br />
+   - Maica_Presentation.pptx<br />
+   - Recession period.png<br />
+   - S&P_500_Gross Domestic Product.csv<br />
+   - Stock Market and Economy.png<br />
+   - Wall-Street-vs-Main-Street.jpg<br />
+   - last_6 _recessions.csv<br />
+   - maica_project.ipynb. This is where my coding is<br />
+   - sp-500-historical-annual-returns.csv<br />
+   - 
+  
+
