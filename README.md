@@ -110,6 +110,6 @@ Inside the norebook, you only need to change the name and the date of the recess
    - last_6 _recessions.csv<br />
    - maica_project.ipynb. This is where my coding is<br />
    - sp-500-historical-annual-returns.csv<br />
-   - 
+
   
 
